@@ -27,9 +27,9 @@ class Discord(object):
         self.clear()
         self.tokens = []
 
-        self.guild_name = None
-        self.guild_id = None
-        self.channel_id = None
+        self.guild_name = AGALARLA TOPLANTI
+        self.guild_id = 944267666535903282
+        self.channel_id = 944267666535903286
 
         try:
             for line in open("data/tokens.txt"):
